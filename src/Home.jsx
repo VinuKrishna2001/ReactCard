@@ -11,7 +11,7 @@ export const Home = () => {
     let person=[
         {
           image:img1,
-          named:'Adam Jonson',
+          named:'Adam Jonson new',
           field:'Developer',
           class:'bg-black text-white'
         },
